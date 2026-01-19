@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+
+# Generated maps / output
+*.html
+
+# Test images / media
+*.jpg
+*.jpeg
+*.png
