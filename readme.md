@@ -1,4 +1,4 @@
-#  Geo-Spy: The Digital Footprint Hunter
+#  Geo-Spy : The Digital Footprint Hunter
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-red?style=for-the-badge&logo=python" alt="Python">
