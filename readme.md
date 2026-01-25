@@ -15,7 +15,7 @@ We live in an era of instant sharing. We take a photo, we post it, and we forget
 
 ---
 
-## ⚡ Features
+##  Features
 - **Big Banner Interface:** A professional ASCII art welcome screen.
 - **Deep Metadata Extraction:** Leverages `ExifTool` to pull precision decimal coordinates.
 - **Automated Mapping:** Generates high-fidelity interactive maps using `Folium`.
